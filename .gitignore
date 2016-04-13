@@ -10,3 +10,4 @@ gen
 text.txt~
 *.py
 *.c
+*.a
