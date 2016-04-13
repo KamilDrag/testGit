@@ -8,6 +8,5 @@ out
 gen
 # Created by .ignore support plugin (hsz.mobi)
 text.txt~
-*.py
 *.c
 *.a
